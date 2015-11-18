@@ -2,8 +2,13 @@ Kansuda Sridee
 5630213032
 git commit  เป็นคำสั่งสำหรับ package file เพื่อบอกว่าแต่ละไฟล์ได้ทีการทำงานอะไรเกิดขึ้นบ้าง
 <<<<<<< HEAD
+
+Nan
+=======
+<<<<<<< HEAD
 kapong
 =======
 
 git commit  ใช้คำสั่งนี้  ก่อนที่จะ push file กลับขึ้นไป
 >>>>>>> d195cf91f7f06c5f4273abf753d05a3bfd45803b
+>>>>>>> 68895e8bd4f469eb72cff4e647d007acf7f30fcf

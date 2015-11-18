@@ -2,4 +2,8 @@ Siwa Khongsupphap
 5630213013
 git init : ทำหน้าที่  สร้าง Land mark
 
+<<<<<<< HEAD
+Nan
+=======
 kapong
+>>>>>>> 68895e8bd4f469eb72cff4e647d007acf7f30fcf

@@ -1,3 +1,13 @@
 Siwa Khongsupphap
 5630213013
+<<<<<<< HEAD
 git init : ทำหน้าที่รีจิส Folder นั้น ทำ 1 ครั้งต่อ Folder
+=======
+git init : ทำหน้าที่
+
+<<<<<<< HEAD
+Nan
+=======
+kapong
+>>>>>>> 68895e8bd4f469eb72cff4e647d007acf7f30fcf
+>>>>>>> efe16db7d67f4b4108c2a93bdb1ce88f9287371d

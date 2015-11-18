@@ -3,7 +3,7 @@ Siwa Khongsupphap
 
 git init : ทำหน้าที่รีจิส Folder นั้น ทำ 1 ครั้งต่อ Folder
 =======
-git init : ทำหน้าที่
+git init
 
 
 Nan

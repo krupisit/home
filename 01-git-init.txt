@@ -1,23 +1,24 @@
 Siwa Khongsupphap
 5630213013
 <<<<<<< HEAD
+<<<<<<< HEAD
 git init : ทำหน้าที่  สร้าง Land mark
 =======
 <<<<<<< HEAD
+=======
+
+>>>>>>> 8abfaa66523ff5800d3218dc907abdca7e8c2e37
 git init : ทำหน้าที่รีจิส Folder นั้น ทำ 1 ครั้งต่อ Folder
 =======
 git init : ทำหน้าที่
 >>>>>>> 5666fca4ed25e31bab4820c7242029106bf83049
 
-<<<<<<< HEAD
+
 Nan
 =======
 kapong
->>>>>>> 68895e8bd4f469eb72cff4e647d007acf7f30fcf
-<<<<<<< HEAD
->>>>>>> efe16db7d67f4b4108c2a93bdb1ce88f9287371d
+
 =======
 
 ============
 Tum
->>>>>>> c05cb5db2fa06d5d8e9a4f98e1310dcc1de19870

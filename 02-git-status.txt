@@ -1,2 +1,3 @@
-Pamon Intason 
-git status 
+Pamon Intason 5630213015
+
+git status คือ คำสั่งในการเช็คสถานะ ซึ่งเป็นคำสั่งที่ใช้ตลอดทั้งชีวิต 

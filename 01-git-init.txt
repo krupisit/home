@@ -1,5 +1,5 @@
 Siwa Khongsupphap
 5630213013
-git init : ทำหน้าที่
+git init : ทำหน้าที่  สร้าง Land mark
 
 kapong

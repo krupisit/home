@@ -1,5 +1,3 @@
 Kansuda Sridee
 5630213032
-git commit 
-
-git commit  เป็นคำสั่งสำหรับ package file  
+git commit  เป็นคำสั่งสำหรับ package file เพื่อบอกว่าแต่ละไฟล์ได้ทีการทำงานอะไรเกิดขึ้นบ้าง

@@ -1,2 +1,2 @@
 Pamon Intason 
-git status 
+git status  เป็นคำสั่ง  ตรวจสอบสถานะ ของ file

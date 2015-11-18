@@ -10,8 +10,12 @@ git init : ทำหน้าที่  สร้าง Land mark
 >>>>>>> 8abfaa66523ff5800d3218dc907abdca7e8c2e37
 git init : ทำหน้าที่รีจิส Folder นั้น ทำ 1 ครั้งต่อ Folder
 =======
+<<<<<<< HEAD
 git init : ทำหน้าที่
 >>>>>>> 5666fca4ed25e31bab4820c7242029106bf83049
+=======
+git init
+>>>>>>> 45be8b1c76c46357a3421c1347742752aa08daad
 
 
 Nan

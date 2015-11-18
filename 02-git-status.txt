@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 Pamon Intason 
-<<<<<<< HEAD
+
 git status 
 
 Siwa Khongsuphap
@@ -12,19 +11,14 @@ git status  เป็นคำสั่ง  ตรวจสอบสถานะ ของ file
 Pamon Intason 5630213015
 
 git status คือ คำสั่งในการเช็คสถานะ ซึ่งเป็นคำสั่งที่ใช้ตลอดทั้งชีวิต 
-<<<<<<< HEAD
+
 
 Nan
 =======
-<<<<<<< HEAD
+
 kapong
 =======
->>>>>>> 9525c196872c949483d918cfa9216ceea93597f1
->>>>>>> d195cf91f7f06c5f4273abf753d05a3bfd45803b
->>>>>>> 68895e8bd4f469eb72cff4e647d007acf7f30fcf
-<<<<<<< HEAD
->>>>>>> efe16db7d67f4b4108c2a93bdb1ce88f9287371d
+
 =======
 ===================
 tum
->>>>>>> c05cb5db2fa06d5d8e9a4f98e1310dcc1de19870

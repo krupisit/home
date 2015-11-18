@@ -10,4 +10,10 @@ Nan
 =======
 kapong
 >>>>>>> 68895e8bd4f469eb72cff4e647d007acf7f30fcf
+<<<<<<< HEAD
 >>>>>>> efe16db7d67f4b4108c2a93bdb1ce88f9287371d
+=======
+
+============
+Tum
+>>>>>>> c05cb5db2fa06d5d8e9a4f98e1310dcc1de19870

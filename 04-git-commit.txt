@@ -14,3 +14,5 @@ git commit  ใช้คำสั่งนี้  ก่อนที่จะ push file กลับขึ้นไป
 >>>>>>> 68895e8bd4f469eb72cff4e647d007acf7f30fcf
 ============
 tum
+
+Nick
